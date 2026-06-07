@@ -12,7 +12,8 @@ While there are platforms out there like paste.photos that let you upload an ima
 
 Here is how the application looks:
 
-![Application Preview](YOUR_IMAGE_URL_HERE)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/775cf390-ba08-4597-87d4-da58e50b918b" />
+
 
 ## Tech Stack & Dependencies
 
@@ -36,6 +37,7 @@ cd PasteImageToView
 3. Install dependencies
 ```
 pnpm install
+```
 
 4. Build and start the app
 ```
