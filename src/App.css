@@ -1,0 +1,30 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    font: 1em Monaspace, Consolas, 'Courier New', monospace;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+#paste-area {
+    margin: 2%;
+    border: 3px;
+    border-style: dashed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    gap: 20px;
+}
+
+#paste-area:hover {
+    cursor: pointer;
+}
+
