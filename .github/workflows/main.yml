@@ -30,7 +30,7 @@ jobs:
         run: npm ci
 
       - name: Build Application (TS + Vite)
-        run: npm run build
+        run: npx vite build
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
