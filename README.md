@@ -26,7 +26,7 @@ Follow these steps to run the project locally:
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/froyln/PasteImageToView.git](https://github.com/froyln/PasteImageToView.git)
+git clone https://github.com/froyln/PasteImageToView.git
 ```
 
 2. Navigate into the project directory:
